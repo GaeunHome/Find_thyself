@@ -1,0 +1,19 @@
+.news{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#newspic img{
+    width: 100%;
+}
+#newscontent{
+    color: white;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.logo{
+    margin-top: 10px;
+    width: 80px;
+    border-radius: 50%;
+}

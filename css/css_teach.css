@@ -1,0 +1,63 @@
+.teacher{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.head{
+  width: 100%;
+}
+.icon{
+  width: 20px;
+  border-radius: 2px;
+}
+@media screen and (max-width: 650px) {
+  .teacher .col-md-12 {
+    width: 100%;
+    display: block;
+  }
+}
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: rgb(255, 255, 232);
+}
+.teacher .editorcontent{
+  padding: 20px 20px;
+}
+.teacher .editorcontent::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.teacher .col-md-4{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.teacher .title {
+  color: grey;
+}
+.teacher .link{
+    text-decoration: none;
+}
+.fixed-bottom{
+  background-color: lightgoldenrodyellow;
+  height: 100px;
+}
+.sticky-top{
+  height: 100px;
+  background-color: lightgoldenrodyellow;
+}
+.copyrighttext{
+  font-size: 5px;
+}
+html{
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+.logo{
+  margin-top: 10px;
+  width: 80px;
+  border-radius: 50%;
+}
