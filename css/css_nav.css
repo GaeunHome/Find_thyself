@@ -1,19 +1,29 @@
-.news{
-    background-color: black;
-    padding-top: 20px;
-    padding-bottom: 20px;
+body {
+	background-color: black;
 }
-#newspic img{
-    width: 100%;
+.news {
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
-#newscontent{
-    color: white;
-    padding-top: 50px;
-    padding-left: 30px;
-    padding-right: 30px;
+#newspic {
+	padding-top: 20px;
+	padding-left: 15%;
+	padding-right: 15%;
 }
-.logo{
-    margin-top: 10px;
-    width: 80px;
-    border-radius: 50%;
+#newspic img {
+	width: 100%;
+}
+#newscontent {
+	color: white;
+	padding-top: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.logo {
+	width: 60px;
+	border-radius: 50%;
+	transition: all 1s ease-out;
+}
+.logo:hover {
+    transform: scale(1.2, 1.2);
 }
