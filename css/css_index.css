@@ -62,7 +62,7 @@
 .btnripple {
 	width: 200px;
 	margin: auto;
-	padding-top: 20%;
+	padding-top: 200px;
 }
 *[data-animation="ripple"] {
 	height: 100%;
@@ -93,7 +93,7 @@
 	background: transparent;
 	pointer-events: none;
 }
-.index p {
+.index p, h4, blockquote {
 	margin-top: 40px;
 	text-align: center;
 	color: white;
