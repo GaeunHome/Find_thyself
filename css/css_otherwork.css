@@ -8,7 +8,7 @@
     overflow:hidden;
     position: relative;
     text-align: center;
-    color: white;
+    color: whitesmoke;
 }
 .imgbox img{
     width: 100%;
@@ -31,18 +31,26 @@
 .imgbox:hover .centered{
     opacity: 1;
 }
-.sticky-top {
+.footer .sticky-top{
 	height: 100px;
-	background-color: #EDECEB;
+    background-color: #EDECEB;
 }
 .copyrighttext {
 	font-size: 5px;
 }
 .logo {
-	width: 60px;
+	width: 50px;
 	border-radius: 50%;
 	transition: all 1s ease-out;
 }
 .logo:hover {
     transform: scale(1.2, 1.2);
+}
+.imgbox img {
+    filter: blur(0px);
+    -webkit-filter: blur(0px);
+}
+.imgbox img:hover {
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
 }

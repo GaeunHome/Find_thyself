@@ -44,13 +44,6 @@
 	background-color: #EDECEB;
 	height: 100px;
 }
-.sticky-top {
-	height: 100px;
-	background-color: #EDECEB;
-}
-.copyrighttext {
-	font-size: 5px;
-}
 html {
 	box-sizing: border-box;
 }
@@ -58,10 +51,17 @@ html {
 	box-sizing: inherit;
 }
 .logo {
-	width: 60px;
+	width: 50px;
 	border-radius: 50%;
 	transition: all 1s ease-out;
 }
 .logo:hover {
 	transform: scale(1.2, 1.2);
+}
+.footer .sticky-top{
+	height: 100px;
+    background-color: #EDECEB;
+}
+.copyrighttext {
+	font-size: 5px;
 }
