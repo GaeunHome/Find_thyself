@@ -15,3 +15,6 @@
 <p>活動副召：解荃恩</p>
 <p>主視覺設計：林詩檠</p>
 <p>展覽顧問：韓筠青老師</p>
+
+# 網站技術
+<p>HTML、CSS、Javascript、Bootstrap</p>
