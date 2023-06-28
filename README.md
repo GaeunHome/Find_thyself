@@ -23,22 +23,12 @@
 <h4>主視覺設計</h4>
 林詩檠
 <h4>展覽顧問</h4>
-韓筠青&nbsp;老師
+韓筠青&nbsp;&nbsp;老師
 <h4>評審</h4>
-<table style="border-collapse: collapse;">
-    <tr>
-      <td>韓筠青</td>
-      <td>老師</td>
-    </tr>
-    <tr>
-      <td>大基</td>
-      <td>老師</td>
-    </tr>
-    <tr>
-      <td>Tony</td>
-      <td>老師</td>
-    </tr>
-</table>
+韓筠青&nbsp;&nbsp;老師<br>
+大基&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;老師<br>
+黃騰緯&nbsp;&nbsp;老師<br>
+
 
 # 網站技術
 <p>HTML、CSS、Javascript、Bootstrap</p>
