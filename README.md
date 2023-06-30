@@ -25,6 +25,7 @@
 林詩檠&nbsp;&nbsp;商業設計學系
 <h4>展覽顧問</h4>
 韓筠青&nbsp;&nbsp;老師
+金怡馨&nbsp;&nbsp;商業設計學系
 <h4>評審</h4>
 韓筠青&nbsp;&nbsp;老師<br>
 大基&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;老師<br>
