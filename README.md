@@ -24,7 +24,7 @@
 <h4>主視覺設計</h4>
 林詩檠&nbsp;&nbsp;商業設計學系
 <h4>展覽顧問</h4>
-韓筠青&nbsp;&nbsp;老師
+韓筠青&nbsp;&nbsp;老師<br>
 金怡馨&nbsp;&nbsp;商業設計學系
 <h4>評審</h4>
 韓筠青&nbsp;&nbsp;老師<br>
