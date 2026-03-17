@@ -1,58 +1,77 @@
-# 中原大學 60 屆攝影社 「Find Thyself」展覽網站
+# Find Thyself - 中原大學60屆攝影社展覽網站
+
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-3-1572B6)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3)](https://getbootstrap.com/)
+
+中原大學第 60 屆攝影社「Find Thyself」展覽網站
 
 因應疫情，本網站用意為展示第 60 屆中原攝影社之展覽「Find Thyself」作品。
 
 本屆展覽分為三期，由中原大學第 60 屆攝影社所有幹部以及三位評審，共同選出每期前三名以及兩名佳作。
 
-### ⚠ 備註：
-- **本網站所有作品已經過照片所有人同意上傳至網站上展示！**
-- **請勿盜取他人之作品並將其用於個人商業利益！**
-
+> **備註：**
+> - 本網站所有作品已經過照片所有人同意上傳至網站上展示！
+> - 請勿盜取他人之作品並將其用於個人商業利益！
 
 ## 展覽介紹
 
-### 第一期 「Find Thyself: Love」
+### 第一期「Find Thyself: Love」
 
-> 因為我們擁有愛之所以為人。  
-> 從親情乃至白頭偕老的愛情，倚靠著彼此，體會心的溫度。  
+> 因為我們擁有愛之所以為人。
+> 從親情乃至白頭偕老的愛情，倚靠著彼此，體會心的溫度。
 > 把愛拾起，才能尋覓到真實的自我。
 
-### 第二期 「Find Thyself: Remembrance」
+### 第二期「Find Thyself: Remembrance」
 
-> 回憶中的所在佔據了你我心房，可能是曾經征服壯麗山岳的豪情，或是街角咖啡廳的愜意午後。  
+> 回憶中的所在佔據了你我心房，可能是曾經征服壯麗山岳的豪情，或是街角咖啡廳的愜意午後。
 > 印象，像映著一幀幀回憶，告訴著我們你是誰。
 
-### 第三期 「Find Thyself: Nowadays」
+### 第三期「Find Thyself: Nowadays」
 
 > 我們正被時代洪流所吞噬，散落一地的口罩曾遮掩過多少笑容，卻不得不承認，它成為了你我生命中的一部分。
 
-
 ## 活動工作人員
 
-### 活動總召暨網站架設人員  
-侯文家 - 資訊管理學系
+| 角色 | 成員 | 系所 |
+|------|------|------|
+| **活動總召暨網站架設** | 侯文家 | 資訊管理學系 |
+| **活動副召** | 解荃恩 | 應用外國語文學系 |
+| **主視覺設計** | 林詩檠 | 商業設計學系 |
+| **展覽顧問** | 韓筠青 | 老師 |
+| | 金怡馨 | 商業設計學系 |
+| **評審** | 韓筠青、大基、黃騰緯 | 老師 |
 
-### 活動副召  
-解荃恩 - 應用外國語文學系
+## 技術資訊
 
-### 主視覺設計  
-林詩檠 - 商業設計學系
+| 項目 | 說明 |
+|------|------|
+| **前端** | HTML, CSS, JavaScript, Bootstrap |
+| **類型** | 靜態網站 |
 
-### 展覽顧問  
-韓筠青 - 老師  
-金怡馨 - 商業設計學系
+## 專案結構
 
-### 評審  
-韓筠青 - 老師  
-大基 - 老師  
-黃騰緯 - 老師
-
-## 網站技術
-
-本網站使用以下技術開發：
-
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Bootstrap**
-
+```
+Find_thyself/
+├── index.html              # 首頁
+├── page/                   # 子頁面
+│   ├── nav.html            # 導覽列
+│   ├── first.html          # 第一期作品
+│   ├── second.html         # 第二期作品
+│   ├── third.html          # 第三期作品
+│   ├── otherwork.html      # 其他作品
+│   └── teach.html          # 教學頁面
+├── css/                    # 樣式表
+│   ├── css_index.css
+│   ├── css_nav.css
+│   ├── css_work.css
+│   ├── css_work1.css
+│   ├── css_otherwork.css
+│   └── css_teach.css
+├── js/                     # JavaScript
+│   ├── index.js
+│   └── rippleeffect.js
+├── pic/                    # 展覽作品圖片
+└── README.md
+```
