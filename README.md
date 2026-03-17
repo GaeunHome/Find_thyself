@@ -49,7 +49,7 @@
 
 | 項目 | 說明 |
 |------|------|
-| **前端** | HTML, CSS, JavaScript, Bootstrap |
+| **前端** | HTML、CSS、JavaScript、Bootstrap |
 | **類型** | 靜態網站 |
 
 ## 專案結構
